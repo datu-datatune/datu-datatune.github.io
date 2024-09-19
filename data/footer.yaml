@@ -1,0 +1,25 @@
+logo: /images/footer.svg
+logo_url: /home
+copyright: Datu Tech. All rights reserved.
+social:
+  - link: https://www.github.com/datu-datatune
+    icon: ph-github-logo
+sections:
+  - title: Main Pages
+    links:
+      - link: /
+        text: Home
+      - link: /feature
+        text: Feature
+      - link: /pricing
+        text: Price
+      - link: /about
+        text: About
+  - title: Community
+    links:
+      - link: /blog
+        text: Blog
+  - title: Company
+    links:
+      - link: /contact
+        text: Contact

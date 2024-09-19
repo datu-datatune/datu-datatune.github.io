@@ -1,0 +1,11 @@
+BaseURL: https://datatune.co
+site_title: DataTune
+favicon_icon: /siteicon.png
+favicon_image: /siteicon.png
+description: >-
+  **DataTune** is a cutting-edge data labeling platform specializing in
+  high-quality, customizable annotations for Large Language Model (LLM)
+  research.
+twitter_image: /images/feature/feature-hero-two.png
+twitter_site: datatune
+image: /images/feature/feature-hero.png
