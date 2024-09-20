@@ -4,7 +4,8 @@
     <title>Privacy on DataTune</title>
     <link>/privacy/</link>
     <description>Recent content in Privacy on DataTune</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/privacy/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
