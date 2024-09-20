@@ -69,7 +69,8 @@ content_blocks:
    -
       _bookshop_name: home/video
       image_path: /images/video/video-thum.jpg
-      videoUrl: https://vimeo.com/45830194
+      videoUrl: >-
+         https://www.bilibili.com/video/BV1gR4y1x7sn/?share_source=copy_web&vd_source=0873c4ac446be090d3fdb20d30f75851
    -
       _bookshop_name: global/testimonial
       title: For AI
