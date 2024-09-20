@@ -8,6 +8,10 @@ items:
     text: Feature
     enable_dropdown: false
     dropdown:
+  - link: https://huggingface.co/datatune
+    text: Our Work
+    enable_dropdown: false
+    dropdown:
   - link: /about/
     text: About
     enable_dropdown: false
