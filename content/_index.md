@@ -20,7 +20,7 @@ content_blocks:
          high-quality, meticulously curated data for both training and RLHF
       image_path: /images/bz.png
       link:
-         text: Scale your data
+         text: Label My Data
          url: /contact/
    -
       _bookshop_name: global/counter
